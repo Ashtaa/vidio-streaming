@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vidio-streaming/static/css/main.b95c11ab.css",
-    "main.js": "/vidio-streaming/static/js/main.8b4c0c67.js",
+    "main.css": "/vidio-streaming/static/css/main.24896584.css",
+    "main.js": "/vidio-streaming/static/js/main.7f7e89e0.js",
     "static/js/488.53709b93.chunk.js": "/vidio-streaming/static/js/488.53709b93.chunk.js",
     "static/media/logo.svg": "/vidio-streaming/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vidio-streaming/index.html",
-    "main.b95c11ab.css.map": "/vidio-streaming/static/css/main.b95c11ab.css.map",
-    "main.8b4c0c67.js.map": "/vidio-streaming/static/js/main.8b4c0c67.js.map",
+    "main.24896584.css.map": "/vidio-streaming/static/css/main.24896584.css.map",
+    "main.7f7e89e0.js.map": "/vidio-streaming/static/js/main.7f7e89e0.js.map",
     "488.53709b93.chunk.js.map": "/vidio-streaming/static/js/488.53709b93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b95c11ab.css",
-    "static/js/main.8b4c0c67.js"
+    "static/css/main.24896584.css",
+    "static/js/main.7f7e89e0.js"
   ]
 }
